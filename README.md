@@ -56,3 +56,10 @@
 > ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-DEDEDE?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)
 ![Figma](https://img.shields.io/badge/figma-DEDEDE?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![Adobe XD](https://img.shields.io/badge/adobe%20xd-DEDEDE?style=for-the-badge&logo=adobexd&logoColor=%23FF61F6)
+> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
