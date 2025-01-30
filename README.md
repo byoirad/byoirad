@@ -56,5 +56,3 @@
 > ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-DEDEDE?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)
 ![Figma](https://img.shields.io/badge/figma-DEDEDE?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![Adobe XD](https://img.shields.io/badge/adobe%20xd-DEDEDE?style=for-the-badge&logo=adobexd&logoColor=%23FF61F6)
-
-![snake gif](https://github.com/byoirad/[SEU_REPOSITORIO](https://github.com/byoirad/byoirad)/blob/output/github-contribution-grid-snake.svg)
