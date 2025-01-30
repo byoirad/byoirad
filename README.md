@@ -21,9 +21,6 @@
   <a href="mailto:qa.dariobarbosa@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://wa.me/5585987665054">
-    <img align="center" src="https://img.shields.io/badge/-Whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
   <a href="https://instagram.com/dariobarbosaz" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
