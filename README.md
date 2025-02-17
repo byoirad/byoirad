@@ -29,16 +29,19 @@
 ## 🚀 My Skills
 
 **Automation Framework**
-> ![Cypress](https://img.shields.io/badge/cypress-DEDEDE?style=for-the-badge&logo=cypress&logoColor=%2369D3A7)
-![Android Studio](https://img.shields.io/badge/Appium%20%2B%20Android%20Studio-DEDEDE?style=for-the-badge&logo=androidstudio&logoColor=%233DDC84)
-![Cucumber](https://img.shields.io/badge/cucumber-DEDEDE?style=for-the-badge&logo=cucumber&logoColor=%2323D96C)
+> ![Cypress](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=ffffff)
+![Robot](https://img.shields.io/badge/robot-000000?style=for-the-badge&logo=robotframework&logoColor=ffffff)
+![Appium](https://img.shields.io/badge/appium-38003d?style=for-the-badge&logo=appium&logoColor=ffffff)
+![Android Studio](https://img.shields.io/badge/androidstudio-008cff?style=for-the-badge&logo=androidstudio&logoColor=ffffff)
+![Cucumber](https://img.shields.io/badge/cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=ffffff)
 
 **Applications and database**
-> ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-DEDEDE?style=for-the-badge&logo=javascript&logoColor=f1e05a)
+> ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
+> ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
 **Utilities**
-> ![Insomnia](https://img.shields.io/badge/insomnia-DEDEDE?style=for-the-badge&logo=insomnia&logoColor=%234000BF)
-![Postman](https://img.shields.io/badge/postman-DEDEDE?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
+> ![Insomnia](https://img.shields.io/badge/insomnia-#F7DF1E?style=for-the-badge&logo=insomnia&logoColor=%234000BF)
+![Postman](https://img.shields.io/badge/postman-#3776AB?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
 
 **DevOps**
 > ![Git](https://img.shields.io/badge/git-DEDEDE?style=for-the-badge&logo=git&logoColor=%23F05032)
