@@ -36,7 +36,7 @@
 ![Cucumber](https://img.shields.io/badge/cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=ffffff)
 
 **Applications and database**
-> ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
+> ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
 > ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
 **Utilities**
@@ -44,18 +44,17 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
 
 **DevOps**
-> ![Git](https://img.shields.io/badge/git-DEDEDE?style=for-the-badge&logo=git&logoColor=%23F05032)
-![GitHub](https://img.shields.io/badge/github-DEDEDE?style=for-the-badge&logo=github&logoColor=%23181717)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-DEDEDE?style=for-the-badge&logo=githubactions&logoColor=%232088FF)
-![GitLab](https://img.shields.io/badge/gitlab-DEDEDE?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26)
-![Bitbucket](https://img.shields.io/badge/bitbucket-DEDEDE?style=for-the-badge&logo=bitbucket&logoColor=%230052CC)
-![Docker](https://img.shields.io/badge/Docker-DEDEDE?style=for-the-badge&logo=docker&logoColor=%232496ED)
+> ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff)
+![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=ffffff)
+![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Azure Pipeline](https://img.shields.io/badge/azure%20pipelines-DEDEDE?style=for-the-badge&logo=azurepipelines&logoColor=%232560E0)
 
 **Development Tools**
-> ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-DEDEDE?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)
-![Figma](https://img.shields.io/badge/figma-DEDEDE?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
-![Adobe XD](https://img.shields.io/badge/adobe%20xd-DEDEDE?style=for-the-badge&logo=adobexd&logoColor=%23FF61F6)
+> ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-2088FF?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
 > 
 
 <picture>
