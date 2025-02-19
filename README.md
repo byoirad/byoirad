@@ -40,8 +40,8 @@
 > ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
 **Utilities**
-> ![Insomnia](https://img.shields.io/badge/insomnia-#F7DF1E?style=for-the-badge&logo=insomnia&logoColor=%234000BF)
-![Postman](https://img.shields.io/badge/postman-#3776AB?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
+> ![Insomnia](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
 
 **DevOps**
 > ![Git](https://img.shields.io/badge/git-DEDEDE?style=for-the-badge&logo=git&logoColor=%23F05032)
